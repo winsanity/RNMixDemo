@@ -7,9 +7,7 @@ import {
   ListView,
   TouchableOpacity,
   Image,
-  AlertIOS,
   ScrollView
-
 } from 'react-native';
 
 import theme from '../config/theme';
