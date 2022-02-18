@@ -1,4 +1,4 @@
 # RNMixDemo
-React-Native 高仿半糖app
+React-Native 还原半糖app
 
 持续完善.......
